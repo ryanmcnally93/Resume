@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@emailjs/browser": "^3.10.0",
     "@googlemaps/markerclusterer": "^2.0.15"
   }
 }
